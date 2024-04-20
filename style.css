@@ -1,0 +1,71 @@
+*{
+	margin: 0;
+	padding:0;
+}
+header{
+	background-image:  url("images/01-1.png"), url("images/01-2.png"), url("images/01.png");				
+	background-position: right, right, center;
+	background-repeat: no-repeat;
+	background-size:contain, contain, cover;
+	height: 860px;
+}
+header h3{
+	color: #c24a0e;
+	font-size:40px;
+	text-transform:uppercase;
+}
+header h1{
+	color: #e88a07;
+	font-size:70px;
+	text-transform:uppercase;
+}
+header .footer-text{
+	color: #c24a0e;
+	font-size:30px;
+	text-transform:uppercase;
+}
+header img{
+	vertical-align: middle;	
+}
+.header-text{
+	padding-left:50px;
+	padding-top:200px
+}
+.section-1{
+	background-color:#6e1012;
+	background-image:url("images/02.png");
+	background-repeat:no-repeat;
+	background-position:center top -50px ;
+	background-size: 100%;
+	height:860px;
+}
+.section-1 table{
+	height:460px;
+	padding: 3%;
+	
+}
+.section-1 .footer-text{
+	color: #c24a0e;
+	font-size:30px;
+	text-transform:uppercase;
+	padding:70px;
+}
+.section-1 h2{
+	color: #e88a07;
+	text-transform:uppercase;
+	text-align:center-left;
+	font-size:40px;
+	padding-top: 40px;
+	padding: 40px
+}
+.section-1 .hd-2{
+	color: #e88a07;
+	text-transform:uppercase;
+}
+.section-1 .txt-2{
+	color: #c24a0e;
+	font-size:;
+}
+.section-1 td{
+	padding:10px;
+}
